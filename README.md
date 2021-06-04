@@ -1,4 +1,6 @@
-<b>Introduction to Machine Learning</b>
+# <center>Introduction to Machine Learning</center>
+<center>with</center>
+<center>Dr. William Mattingly</center>
 
 
 This notebook was put together for the 2021 TAP Institute's summer courses. This notebook is meant to function as a quick introduction to machine learning. It will not sereve as a complete overview, rather a quick way to get a genereal understanding about what machine learning is and how it works. In notebooks 2 and 3, we will solve two different problems with machine learning--topic modeling and text classification. This notebook will be more text-centric, while the next two will be focused on two Python libraries for engaging in ML, Gensim (Topic Modeling) and spaCy (text classification).
