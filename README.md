@@ -1,7 +1,7 @@
 
 # <div align="center">Introduction to Machine Learning</div>
 <div align="center">
-  with
+  with<br>
   Dr. William Mattingly
 </div>
 
