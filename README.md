@@ -2,9 +2,9 @@
 # <div align="center">Introduction to Machine Learning</div>
 <div align="center">
   with<br>
-  Dr. William Mattingly<br>
-  Developed for the TAP Institute
-  Summere 2021 Course
+  Dr. William Mattingly<br><br>
+  Developed for the TAP Institute<br>
+  Summer 2021 Course
 </div>
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This collection of notebooks was put together for the 2021 TAP Institute's summer courses. They are meant to function as a quick introduction to machine learning. It will not sereve as a complete overview, rather a quick way to get a genereal understanding about what machine learning is and how it works. In notebooks 2 and 3, we will solve two different problems with machine learning--topic modeling and text classification.
