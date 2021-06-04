@@ -2,7 +2,9 @@
 # <div align="center">Introduction to Machine Learning</div>
 <div align="center">
   with<br>
-  Dr. William Mattingly
+  Dr. William Mattingly<br>
+  Developed for the TAP Institute
+  Summere 2021 Course
 </div>
 
 
