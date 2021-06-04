@@ -7,7 +7,7 @@
   Summere 2021 Course
 </div>
 <br><br>
-* This notebook was put together for the 2021 TAP Institute's summer courses. This notebook is meant to function as a quick introduction to machine learning. It will not sereve as a complete overview, rather a quick way to get a genereal understanding about what machine learning is and how it works. In notebooks 2 and 3, we will solve two different problems with machine learning--topic modeling and text classification. This notebook will be more text-centric, while the next two will be focused on two Python libraries for engaging in ML, Gensim (Topic Modeling) and spaCy (text classification).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This notebook was put together for the 2021 TAP Institute's summer courses. This notebook is meant to function as a quick introduction to machine learning. It will not sereve as a complete overview, rather a quick way to get a genereal understanding about what machine learning is and how it works. In notebooks 2 and 3, we will solve two different problems with machine learning--topic modeling and text classification. This notebook will be more text-centric, while the next two will be focused on two Python libraries for engaging in ML, Gensim (Topic Modeling) and spaCy (text classification).
 <br><br>
 Notebook 2 (Topic Modeling) will leverage an existing cultivated dataset 20-Newsgroup. While this dataset is not relevant to the humanities particularly, it provides a good toy example for how to load, clean, and work with an existing dataset. This is an essential skill, despite, as we shall discuss in Notebook 3 (Text Classification), the fact that humanists do not currently have access to a large number of well-cultivated datasets for research purposes.
 <br><br>
