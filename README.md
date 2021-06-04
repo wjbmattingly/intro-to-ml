@@ -1,7 +1,8 @@
+
+# <div align="center">Introduction to Machine Learning</div>
 <div align="center">
-# Introduction to Machine Learning</center>
-with
-Dr. William Mattingly
+  with
+  Dr. William Mattingly
 </div>
 
 
