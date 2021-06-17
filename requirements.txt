@@ -1,0 +1,5 @@
+PyDictionary
+pandas
+spacy
+gensim
+pyLDAvis
