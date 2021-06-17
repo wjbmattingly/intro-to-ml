@@ -1,0 +1,5 @@
+PyDictionary
+pandas
+gensim
+pyLDAvis
+python-levenshtein
