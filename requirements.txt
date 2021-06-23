@@ -4,3 +4,4 @@ gensim
 pyLDAvis
 python-levenshtein
 sklearn
+plotly
