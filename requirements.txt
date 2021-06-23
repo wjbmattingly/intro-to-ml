@@ -3,3 +3,4 @@ pandas
 gensim
 pyLDAvis
 python-levenshtein
+sklearn
