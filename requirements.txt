@@ -5,3 +5,5 @@ pyLDAvis
 python-levenshtein
 sklearn
 plotly
+matplotlib
+spacy
