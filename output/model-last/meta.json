@@ -37,28 +37,28 @@
   ],
   "performance":{
     "cats_score_desc":"macro F",
-    "cats_micro_p":0.8838383838,
-    "cats_micro_r":0.8838383838,
-    "cats_micro_f":0.8838383838,
-    "cats_macro_p":0.8905730897,
-    "cats_macro_r":0.8838383838,
-    "cats_macro_f":0.8833354682,
-    "cats_macro_auc":0.9408223651,
+    "cats_micro_p":0.9306930693,
+    "cats_micro_r":0.9306930693,
+    "cats_micro_f":0.9306930693,
+    "cats_macro_p":0.9322183965,
+    "cats_macro_r":0.9306930693,
+    "cats_macro_f":0.9306318681,
+    "cats_macro_auc":0.983629056,
     "cats_f_per_type":{
       "hunger":{
-        "p":0.8392857143,
-        "r":0.9494949495,
-        "f":0.8909952607
+        "p":0.9065420561,
+        "r":0.9603960396,
+        "f":0.9326923077
       },
       "smell":{
-        "p":0.9418604651,
-        "r":0.8181818182,
-        "f":0.8756756757
+        "p":0.9578947368,
+        "r":0.900990099,
+        "f":0.9285714286
       }
     },
     "cats_macro_auc_per_type":0.0,
-    "cats_score":0.8833354682,
+    "cats_score":0.9306318681,
     "tok2vec_loss":0.0,
-    "textcat_loss":0.002875144
+    "textcat_loss":2.4686560325
   }
 }
